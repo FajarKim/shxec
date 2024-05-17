@@ -126,7 +126,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/FajarKim/shxec/edit/docs/"
+    base: "https://github.com/FajarKim/shxec/edit/docs/content"
 
   blog:
     list:
