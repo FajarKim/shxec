@@ -16,13 +16,6 @@ outputs:
   page: [HTML]
   section: [HTML, RSS]
 
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-  highlight:
-    noClasses: false
-
 defaultContentLanguage: id
 languages:
   id:
@@ -35,10 +28,6 @@ languages:
     title: Shxec
 
 module:
-  hugoVersion:
-    extended: true
-    min: "0.112.0"
-
   imports:
     - path: github.com/imfing/hextra
 
