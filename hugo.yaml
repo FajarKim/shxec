@@ -16,6 +16,11 @@ outputs:
   page: [HTML]
   section: [HTML, RSS]
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 defaultContentLanguage: id
 languages:
   id:
