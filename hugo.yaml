@@ -27,7 +27,7 @@ defaultContentLanguage: id
 languages:
   id:
     languageName: Indonesia
-    wight: 1
+    weight: 1
     title: Shxec
   en:
     languageName: English
