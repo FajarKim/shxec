@@ -20,6 +20,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+  highlight:
+    noClasses: false
 
 defaultContentLanguage: id
 languages:
