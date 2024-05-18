@@ -32,7 +32,7 @@ layout: hextra-home
     title="Compression of Many Shell Types"
     subtitle="Supported Shell include Bourne Shell (sh), Bourne Again Shell (bash), Debian Almquist Shell (dash), Korn Shell (ksh), MirBSD Korn Shell (mksh), and Z-Shell (zsh)."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="images/screenshots-1.png"
+    image="images/screenshots-1.webp"
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -40,7 +40,7 @@ layout: hextra-home
     title="Secure Files"
     subtitle="Compressed files are 100% safe and unreadable."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
-    image="images/screenshots-2.png"
+    image="images/screenshots-2.webp"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -48,7 +48,7 @@ layout: hextra-home
     title="Linux and macOS"
     subtitle="Can be run in Linux and macOS environments."
   >}}
-    {{< hextra/feature-card
+  {{< hextra/feature-card
     title="Command CLI"
     subtitle="Using CLI commands which makes it easier to use."
   >}}

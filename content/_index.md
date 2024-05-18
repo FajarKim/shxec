@@ -32,7 +32,7 @@ layout: hextra-home
     title="Kompresi Banyak Jenis Shell"
     subtitle="Shell yang didukung diantaranya Bourne Shell (sh), Bourne Again Shell (bash), Debian Almquist Shell (dash), Korn Shell (ksh), MirBSD Korn Shell (mksh), dan Z-Shell (zsh)."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="images/screenshots-1.png"
+    image="images/screenshots-1.webp"
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -40,7 +40,7 @@ layout: hextra-home
     title="File Aman"
     subtitle="File yang dikompresi 100% aman dan tak terbaca."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
-    image="images/screenshots-2.png"
+    image="images/screenshots-2.webp"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -48,7 +48,7 @@ layout: hextra-home
     title="Linux dan macOS"
     subtitle="Dapat dijalankan di lingkungan Linux dan macOS."
   >}}
-    {{< hextra/feature-card
+  {{< hextra/feature-card
     title="Perintah CLI"
     subtitle="Menggunakan perintah CLI yang memudahkannya dalam penggunaannya."
   >}}
