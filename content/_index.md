@@ -1,6 +1,5 @@
 ---
 title: Shxec
-toc: false
 layout: hextra-home
 ---
 
@@ -25,6 +24,8 @@ layout: hextra-home
 <div class="hx-mb-6">
 {{< hextra/hero-button text="Ayo Mulai" link="docs" >}}
 </div>
+
+<div class="hx-mt-6"></div>
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
@@ -52,3 +53,5 @@ layout: hextra-home
     subtitle="Menggunakan perintah CLI yang memudahkannya dalam penggunaannya."
   >}}
 {{< /hextra/feature-grid >}}
+
+</div>
